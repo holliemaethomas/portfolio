@@ -19,7 +19,10 @@ section, summary, time, mark, audio, video {
   article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;}
-  
+	
+#top.one.dark.cover {
+	background-image: url("../css/images/download.jpeg");
+}	
 
   html {
 		box-sizing: border-box;
