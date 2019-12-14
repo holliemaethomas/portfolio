@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/holliemaethomas/portfolio/issues"
   },
-  "homepage": "https://github.com/holliemaethomas/portfolio/blob/master/README.md",
+  "homepage": "https://github.com/holliemaethomas/portfolio/blob/master/index.html",
   "dependencies": {
     "express": "^4.17.1"
   }
