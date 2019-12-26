@@ -20,9 +20,9 @@ section, summary, time, mark, audio, video {
 footer, header, hgroup, menu, nav, section {
   display: block;}
 	
-#top.one.dark.cover {
-	background-image: url("../css/images/download.jpeg");
-}	
+/* #top.one.dark.cover {
+	background-image: url("https://www.youtube.com/embed/D_Vg4uyYwEk");
+}	 */
 
   html {
 		box-sizing: border-box;
